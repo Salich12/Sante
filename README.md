@@ -1,4 +1,4 @@
-# Projet 4 : Réaliser une étude de santé publique
+# Projet : Réaliser une étude de santé publique
 
 ## &#128203; Scénario
 Nous intervenons en tant que *Data Analyst* au sein d'une équipe de chercheurs de la *[Food and Agriculture Organization of the United Nations (FAO)](http://www.fao.org/home/fr/)* qui est une agence spécialisée de l'ONU menant des efforts internationaux vers l'élimination de la faim. 
